@@ -1,0 +1,29 @@
+body {
+    background-image: url('./images/Kasauli-Tourist-Attractions.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.taskbar {
+    position: relative;
+
+    
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.taskbar-item {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.taskbar-item:hover {
+    text-decoration: underline;
+}
+.travelx {
+    text-align: center;
+  
+}
